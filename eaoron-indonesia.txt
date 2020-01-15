@@ -1,0 +1,19 @@
+Tampilan / layout web page utama
+Login & Register
+Whistlist
+Cart
+Navbar (Distributor, About, Contact, News)
+Banner atas
+slider feature
+Popular Categories
+Banner bawah
+slider new arrival
+slider hot deals
+mini banner
+hot promo slider
+slider riview random
+paling banyak dibeli
+brand logo slider
+newsletter
+link kategori & link halaman lainnnya
+link sosial media
